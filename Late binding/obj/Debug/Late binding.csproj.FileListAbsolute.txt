@@ -1,0 +1,10 @@
+F:\smarter laboratories lmited\Late binding\Late binding\bin\Debug\Late binding.exe.config
+F:\smarter laboratories lmited\Late binding\Late binding\bin\Debug\Late binding.exe
+F:\smarter laboratories lmited\Late binding\Late binding\bin\Debug\Late binding.pdb
+F:\smarter laboratories lmited\Late binding\Late binding\obj\Debug\Late binding.csprojResolveAssemblyReference.cache
+F:\smarter laboratories lmited\Late binding\Late binding\obj\Debug\Late_binding.Form1.resources
+F:\smarter laboratories lmited\Late binding\Late binding\obj\Debug\Late_binding.Properties.Resources.resources
+F:\smarter laboratories lmited\Late binding\Late binding\obj\Debug\Late binding.csproj.GenerateResource.Cache
+F:\smarter laboratories lmited\Late binding\Late binding\obj\Debug\Late binding.exe
+F:\smarter laboratories lmited\Late binding\Late binding\obj\Debug\Late binding.pdb
+F:\smarter laboratories lmited\Late binding\Late binding\bin\Debug\Half-wave.dll
