@@ -32,7 +32,7 @@ namespace Late_binding
             //obtain infor from the library
             try
             {
-                executeAssembly = Assembly.Load("Half_wave");
+                executeAssembly = Assembly.Load("Half-wave");
                 if (executeAssembly == null)
                     return;
             }
